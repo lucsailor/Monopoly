@@ -8,7 +8,7 @@ public class Street {
     Player owner;
     static int i = 0;
 
-
+/
     public Street (String name, int[] price, int upgrade_cost){
         this.name = name;
         this.price = price;
