@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/Monopoly.iml" filepath="$PROJECT_DIR$/.idea/Monopoly.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/Monopoly.iml" filepath="$PROJECT_DIR$/Monopoly.iml" />
->>>>>>> cc18065 (HALlo)
     </modules>
   </component>
 </project>
