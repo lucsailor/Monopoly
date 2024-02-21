@@ -15,6 +15,6 @@ public class Street {
         this.upgrade_cost = upgrade_cost;
         Player.Streets[i] = this;
         i++;
-        //is
+        //i
     }
 }
